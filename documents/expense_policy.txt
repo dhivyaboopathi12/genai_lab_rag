@@ -1,0 +1,5 @@
+EXPENSE POLICY — TRAINING EXAMPLE
+Employees should submit business expense claims within 30 calendar days of the purchase.
+Receipts are required for individual claims above AED 100.
+Manager approval is required before reimbursement.
+Personal purchases are not reimbursable under this training example.
